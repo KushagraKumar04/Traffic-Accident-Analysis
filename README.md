@@ -6,7 +6,7 @@ This project analyzes traffic accident data to uncover patterns and trends relat
 
 The dataset used in this project is the US Accidents dataset, which can be found [here](https://www.kaggle.com/sobhanmoosavi/us-accidents).
 
-## Code Overview
+## Code 
 
 The analysis is performed using Python and involves the following steps:
 
