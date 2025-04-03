@@ -2,7 +2,7 @@
 
 This project analyzes traffic accident data to uncover patterns and trends related to road conditions, weather, and time of day. The insights gained from this analysis aim to develop targeted strategies to improve road safety.
 
-## Dataset
+## Data
 
 The dataset used in this project is the US Accidents dataset, which can be found [here](https://www.kaggle.com/sobhanmoosavi/us-accidents).
 
