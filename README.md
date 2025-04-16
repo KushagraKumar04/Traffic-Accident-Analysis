@@ -1,6 +1,6 @@
 # Traffic Accident Data Analysis
 
-This project analyzes traffic accident data to uncover patterns and trends related to road conditions, weather, and time of day. The insights gained from this analysis aim to develop targeted strategies to improve road safety.
+This project analyzes traffic accident data to uncover patterns and trends related to road conditions, weather, and time of day. The insights gained from this analysis aim to develop targeted strategies to improve road safety and provide raod.
 
 ## Data Source
 
